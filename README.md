@@ -1,6 +1,9 @@
-[![Header]()](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
+[![Header](https://github.com/JafarovRovshan/jafarovrovshan/blob/main/assets/gif.gif)](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
 
-### Hi there 👋
+### Hi there 👋, My name is Rovshan
+
+<br>
+<hr>
 
 <!--
 **JafarovRovshan/jafarovrovshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
