@@ -1,21 +1,15 @@
 [![Header](https://github.com/JafarovRovshan/jafarovrovshan/blob/main/assets/gif.gif)](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
 
-### Hi there 👋, My name is Rovshan
-
+### Here is what I'm Working On!👋
 <br>
 <hr>
 
-<!--
-**JafarovRovshan/jafarovrovshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Online Shop Web Project
+- 🌱 I’m currently learning JavaScript & C#
+- 👯 I’m looking to collaborate on OpenSource Projects
+- 🤔 I’m looking for help with React.js
+- 💬 Ask me about Anything
+- 📫 How to reach me: rovshannj@code.edu.az
+- ⚡ I can speak English, Russian, Turkish
