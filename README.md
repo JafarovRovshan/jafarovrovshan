@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.wallpapersafari.com/82/76/PlbVW3.gif" height="auto"/></a>
+<a href="#"><img width="100%" height="300" src="https://cdn.wallpapersafari.com/82/76/PlbVW3.gif" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rovshan</h1>
 <h3 align="center">Here is what I'm Working On!👋</h3>
