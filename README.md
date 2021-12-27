@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-<a href = "https://www.facebook.com/rovshan.jafarov.16/"><img src="https://img.icons8.com/doodle/96/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/rovshan.jafarov.16/" target="_blank"><img src="https://img.icons8.com/doodle/96/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/j.rovshan969"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png"/></a>
 <a href = "https://www.linkedin.com/in/rovshan-jafarov/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/85/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 
