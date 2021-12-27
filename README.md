@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rovshan</h1>
 <h3 align="center">Here is what I'm Working On!👋</h3>
-
 <br>
 <hr>
 
@@ -14,6 +13,10 @@
 - 📫 How to reach me: rovshannj@code.edu.az
 - ⚡ I can speak English, Russian, Turkish
 <hr>
+
+## My Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JafarovRovshan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
 
@@ -42,8 +45,13 @@
        <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/figma.png"/> </a>
    
 </p>
+<br>
 <hr>
 
 ### My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jafarovrovshan&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JafarovRovshan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Profile views](https://gpvc.arturio.dev/JafarovRovshan)  
