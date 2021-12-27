@@ -4,7 +4,7 @@
 <br>
 <hr>
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on Online Shop Web Project
 - 🌱 I’m currently learning JavaScript & C#
