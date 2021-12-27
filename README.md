@@ -13,3 +13,7 @@ About Me:
 - 💬 Ask me about Anything
 - 📫 How to reach me: rovshannj@code.edu.az
 - ⚡ I can speak English, Russian, Turkish
+
+My GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jafarovrovshan&theme=tokyonight)
